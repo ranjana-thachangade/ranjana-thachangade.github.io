@@ -1,152 +1,186 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Ranjana Thachangade",
+    "label": "Doctoral Student",
+    "email": "ranjanat@doktorant.umk.pl",
+    "summary": "Self-motivated researcher in polymer science, passionate about teaching and exploring polymer properties for energy, environmental, and biomedical applications.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Torun",
+      "countryCode": "Poland"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "network": "LinkedIn",
+        "username": "Ranjana Thachangade",
+        "url": "https://in.linkedin.com/in/ranjana-thachangade-ba73b5259"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Nicolaus Copernicus University in Torun, Poland",
+      "position": "Doctoral Student",
+      "startDate": "December 2025",
+      "endDate": "Present"
+    },
+    {
+      "company": "Indian Institute of Technology, Ropar (in collaboration with IIT, Delhi)",
+      "position": "Junior Research Fellow",
+      "startDate": "October 2021",
+      "endDate": "April 2025"
+    },
+    {
+      "company": "National Institute of Technology, Calicut",
+      "position": "Technical Assistant - Department of Chemistry",
+      "startDate": "December 2019",
+      "endDate": "July 2020"
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "institution": "Cochin University of Science and Technology (CUSAT)",
+      "area": "Master of Science in Bio-Polymer Science",
+      "startDate": "July 2017",
+      "endDate": "May 2019",
+      "details": [
+        "University 5th Rank Holder",
+        "Thesis Title: Invitro Bioactivity Assessment based on Mesoporous Bioactive Glass-based Composite Scaffolds"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "University of Calicut",
+      "area": "Bachelor of Science in Chemistry",
+      "startDate": "July 2014",
+      "endDate": "May 2017",
+      "details": [
+        "Thesis Title: Green Synthesis of Schiff Bases"
+      ]
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "skills": [
+    {
+      "name": "Technical Skills",
+      "keywords": [
+        "Polymer Characterizations: XRD, FTIR, TGA, DSC, SEM, UV-VIS",
+        "Polymer and Rubber Processing and Tests: Compression Molding, Microcompounding, Extrusion, Blow Molding, Thermoforming, Two Roll Mill, Injection Molding, Universal Testing Machine, Impact Testing Machine, Melt Flow Index Tester, Rheometer",
+        "3D Printing: Granular 3D Printer, Hyrel 3D Printer, DIW 3D Printer, Filament-based FDM",
+        "Polymer Synthesis and Biomaterial Synthesis",
+        "Design of Experiments (DOE)"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project 1",
+      "description": "Development of cost-effective smart manufacturing assisted prosthetic mechanical heart valve from ultra-high molecular weight polyolefins."
+    },
+    {
+      "name": "Project 2",
+      "description": "Development of HTV and RTV silicon elastomer compound for the fabrication of maxillofacial prosthesis."
+    },
+    {
+      "name": "Master's Thesis",
+      "description": "Invitro Bioactivity Assessment based on Mesoporous Bioactive Glass-based Composite Scaffolds conducted at CSIR-Central Electrochemical Research Institute (CECRI), Karaikudi."
+    },
+    {
+      "name": "Bachelor's Thesis",
+      "description": "Green Synthesis of Schiff Bases."
+    }
+  ],
+  "courses": [
+    "BPS_2101 - Polymer Chemistry",
+    "BPS_2106 - Polymer Synthesis Lab",
+    "BPS_2201 - Polymer Rheology",
+    "BPS_2302 - Polymer Blends and Composites",
+    "BPS_2305 - Polymer Nanocomposites",
+    "BPS_2306 - Biopolymer Chemistry Lab"
+  ],
+  "conferences": [
+    {
+      "name": "15th EUCHIS Conference",
+      "date": "2026",
+      "location": "Murcia, Spain",
+      "description": "Presented a poster."
+    },
+    {
+      "name": "7th Symposium Biomaterials in Medicine and Cosmetology",
+      "date": "2026",
+      "location": "Torun, Poland",
+      "description": "Presented a poster."
+    },
+    {
+      "name": "UGC Sponsored Seminar: Crystallography - Special Emphasis on Applications in Chemistry",
+      "date": "2016",
+      "location": "NSS College",
+      "description": ""
+    },
+    {
+      "name": "National Conference on Biopolymers and Green Composites (BPGC)",
+      "date": "2018",
+      "location": "Kochi, India",
+      "description": ""
+    },
+    {
+      "name": "National Workshop on Robotics in association with Amalgam 2015-16, IIT Madras",
+      "date": "2015",
+      "location": "India",
+      "description": ""
+    },
+    {
+      "name": "PlastIndia Expo",
+      "date": "2018",
+      "location": "Ahmedabad, India",
+      "description": ""
+    }
+  ],
+  "patents": [
+    {
+      "name": "Method for processing and material extrusion additive manufacturing of ultra high molecular weight polyethylene",
+      "number": "Indian Patent Application Number 202411037161",
+      "date": "May 10, 2024"
+    },
+    {
+      "name": "Design and development of maxillofacial prosthetic material appropriate for Asian climatic conditions utilizing room temperature vulcanized silicone elastomer",
+      "number": "Indian Patent Application Number 202511088178",
+      "date": "September 16, 2025"
+    }
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Effect of Maleic Anhydride on the Physicochemical Properties of Chitosan",
+      "publisher": "Engineering of Biomaterials",
+      "releaseDate": "2026",
+      "summary": "Ranjana Thachangade, Katarzyna Lewandowska."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Computational fluid dynamics (CFD) driven rheological understanding of the granule-based 3D-printing of a processible ultra-high molecular weight polyethylene",
+      "publisher": "Research Paper",
+      "releaseDate": "2025",
+      "summary": "Chandan Kumar, Anant Chauhan, Ranjana T, Pratip Sankar Banerjee, Chandi Sasmal, Shib Shankar Banerjee."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Suitability of Room-Temperature Vulcanized Silicone Elastomers for Maxillofacial Prostheses in the Indian Climate: Formulation, Properties and Biocompatibility",
+      "publisher": "Research Paper",
+      "releaseDate": "2025",
+      "summary": "Dhiraj Kumar Rana, Garima Chaudhury, Ranjana T, Veena Jain, Sachin Kumar, Shib Shankar Banerjee."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Improving 3D Printability and Interlayer Adhesion in ABS/PP Immiscible Polymer Blends",
+      "publisher": "Polymer Engineering and Science",
+      "releaseDate": "2024",
+      "summary": "Aleti Yesu, Ranjana T, Sourabh Goyal, Shib Shankar Banerjee."
+    },
+    {
+      "name": "Maxillofacial Prosthesis Materials: Current Challenges and Effect of Tropical Environment on Physico-Mechanical Properties",
+      "publisher": "Polymers-Plastics Technology and Materials",
+      "releaseDate": "2024",
+      "summary": "Ranjana T, Bhushan Gulab Patil, Dhiraj Kumar Rana, Veena Jain, Shib Shankar Banerjee."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "presentations": [],
+  "teaching": [],
+  "portfolio": [],
+  "languages": [],
+  "interests": [],
+  "references": []
 }

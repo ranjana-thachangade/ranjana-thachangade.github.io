@@ -23,6 +23,7 @@
   color: var(--global-text-color );
 }
 
+.cv-contact,
 .cv-contact-info {
   display: flex;
   flex-wrap: wrap;
@@ -42,18 +43,21 @@
   margin-top: 0.5rem;
 }
 
-.cv-profile-item {
+.cv-profile-item,
+.cv-profile-link {
   display: flex;
   align-items: center;
   gap: 0.5rem;
 }
 
-.cv-profile-item a {
+.cv-profile-item a,
+.cv-profile-link {
   color: var(--global-link-color);
   text-decoration: none;
 }
 
-.cv-profile-item a:hover {
+.cv-profile-item a:hover,
+.cv-profile-link:hover {
   text-decoration: underline;
 }
 
@@ -84,6 +88,8 @@
 
 .cv-list {
   list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
 }
 
 .cv-item-header {
@@ -113,6 +119,10 @@
 .cv-item-highlights {
   margin-top: 0.5rem;
   padding-left: 1.5rem;
+}
+
+.cv-skill-list {
+  padding-left: 1.25rem;
 }
 
 .cv-item-highlights li {

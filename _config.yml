@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Ranjana Thachangade"
 title_separator          : "-"
 name                     : "Ranjana Thachangade"
-description              : "PhD Scholar working in preparation and characterization of chitosan complexes for potential biomedical applications"
+description              : "Doctoral student in polymer science working on biomaterials, chitosan complexes, and polymer characterization for biomedical applications"
 url                      : "https://ranjana-thachangade.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "ranjana.jpg"
   name             : "Ranjana Thachangade"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Scholar"
+  bio              : "Doctoral Student"
   location         : "Poland"
   employer         : "Nicolaus Copernicus University"
   uri              : # URL
@@ -65,7 +65,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "ranjana-thachangade-ba73b5259"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
