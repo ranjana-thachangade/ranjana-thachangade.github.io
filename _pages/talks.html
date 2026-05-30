@@ -1,16 +1,50 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Conferences, Workshops and Posters"
 permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+{% include base_path %}
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+<p>Conference presentations, posters, workshops, and related academic events.</p>
 
-{% endif %}
+{% assign poster_shown = false %}
+{% assign conference_shown = false %}
+{% assign workshop_shown = false %}
 
 {% for post in site.talks reversed %}
+  {% if post.type == "Poster" %}
+    {% unless poster_shown %}
+      <h2>Posters</h2><hr />
+      {% assign poster_shown = true %}
+    {% endunless %}
+    {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+
+{% for post in site.talks reversed %}
+  {% if post.type == "Conference" %}
+    {% unless conference_shown %}
+      <h2>Conferences</h2><hr />
+      {% assign conference_shown = true %}
+    {% endunless %}
+    {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+
+{% for post in site.talks reversed %}
+  {% if post.type == "Workshop" %}
+    {% unless workshop_shown %}
+      <h2>Workshops</h2><hr />
+      {% assign workshop_shown = true %}
+    {% endunless %}
+    {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+
+{% for post in site.talks reversed %}
+  {% unless post.type == "Poster" or post.type == "Conference" or post.type == "Workshop" %}
   {% include archive-single-talk.html %}
+  {% endunless %}
 {% endfor %}
