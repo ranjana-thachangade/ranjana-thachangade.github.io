@@ -2,7 +2,7 @@
 title: Influence of High-Energy Ball-Milling on the Rheological Properties of Molded Ultra High Molecular Weight Polyethylene and its Correlation with the Structural Alteration"
 collection: publications
 category: manuscripts
-permalink: /publication/cfd-rheological-understanding-uhmwpe
+permalink: /publication/understanding-uhmwpe
 excerpt: "Understanding the influence of high energy ball milling on UHMWPE."
 date: 2026-07-18
 venue: "Journal of Polymer Engineering and Science"
